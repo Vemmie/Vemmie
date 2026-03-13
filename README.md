@@ -1,7 +1,7 @@
 ### Hey there 😄
 
 I'm [Francis](https://www.linkedin.com/in/francisdtruong/), a software engineer based in the SF Bay Area.
-* 🎓 MSCS Student at Georgia Tech / BSCS Graduate at Oregon State University
+* 🎓 MSCS Incoming student at Georgia Tech / BSCS at Oregon State University
 * 💻 Interested in Full-Stack Development (Mainly Backend and Data) & Systems Programming
 
 If any idea pops into my head, chances are I'll build it. I enjoy learning things that 
