@@ -9,14 +9,14 @@ interest me, like C and Rust, which help me understand what's going on under the
 Watching a system connect is satisfying.
 
 ## 🛠️ Technical Stack
-* **Systems & Backend:** Go, C/C++ (primarily C), Python, Rust; Node.js, Gin, Flask, REST APIs
+* **Systems & Backend:** C/C++ (primarily C), Python; Node.js, Flask, REST APIs
 * **Frontend & Mobile:** TypeScript, JavaScript, React, React Native, Expo, Angular 
 * **Data & Databases:** SQL (PostgreSQL, SQLite), MongoDB; Pandas, Scikit-Learn
 * **Infrastructure & Tools:** Git, GitHub, Linux (Pop!_OS / Ubuntu), AWS, Azure 
-* **Testing & Quality:** Python Unittest, Pytest
+* **Testing & Quality:** Python Unittest, Pytest, Postman 
 
 ## 🌱 I’m currently learning 
-* Rust, Azure, and Angular
+* Rust, Azure, GO and Angular
 
 ## Hobbies and Interests 💬
 * I love cats, and I have a garden cat
